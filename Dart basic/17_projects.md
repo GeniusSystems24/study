@@ -751,4 +751,5 @@ void main() async {
 
 ---
 
-[⬅️ الموضوع السابق: أفضل الممارسات](16_best_practices.md) | [العودة للفهرس](README.md)
+[⬅️ الموضوع السابق: أفضل الممارسات](16_best_practices.md) 
+ [العودة للفهرس](README.md)

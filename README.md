@@ -33,3 +33,6 @@
 ## فهرس محتويات المستودع (Table of Repository Contents)
 
 * [Three ways of using SQL Insert compare - مقارنة بين ثلاث طرق لاستخدام إدراج البيانات في SQL](./Three%20ways%20of%20using%20SQL%20Insert%20compere/README.md)
+
+* [SQL Server Basic - أساسيات SQL Server من المبتدئ إلى المتقدم](./SQL%20Server%20Basic/README.md)
+  * [مثال شامل: قاعدة بيانات نظام إدارة المتجر الإلكتروني](./SQL%20Server%20Basic/comprehensive_queries_example.md) - مشروع عملي متكامل مع 5 جداول و100+ استعلام متنوع

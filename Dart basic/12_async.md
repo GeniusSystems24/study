@@ -666,4 +666,6 @@ void main() async {
 
 ---
 
-[⬅️ الموضوع السابق: معالجة الأخطاء](11_exceptions.md) | [العودة للفهرس](README.md) | [الموضوع التالي: Generics ➡️](13_generics.md)
+[⬅️ الموضوع السابق: معالجة الأخطاء](11_exceptions.md) 
+ [العودة للفهرس](README.md) 
+ [الموضوع التالي: Generics ➡️](13_generics.md)

@@ -601,4 +601,6 @@ dart pub publish
 
 ---
 
-[⬅️ الموضوع السابق: Generics](13_generics.md) | [العودة للفهرس](README.md) | [الموضوع التالي: مفاهيم متقدمة ➡️](15_advanced.md)
+[⬅️ الموضوع السابق: Generics](13_generics.md) 
+ [العودة للفهرس](README.md) 
+ [الموضوع التالي: مفاهيم متقدمة ➡️](15_advanced.md)
