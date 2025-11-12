@@ -36,3 +36,5 @@
 
 * [SQL Server Basic - أساسيات SQL Server من المبتدئ إلى المتقدم](./SQL%20Server%20Basic/README.md)
   * [مثال شامل: قاعدة بيانات نظام إدارة المتجر الإلكتروني](./SQL%20Server%20Basic/comprehensive_queries_example.md) - مشروع عملي متكامل مع 5 جداول و100+ استعلام متنوع
+
+* [Flutter Basic - أساسيات Flutter من الصفر للاحتراف](./Flutter%20Basic/README.md) - خطة تعلم شاملة لتطوير تطبيقات متعددة المنصات باستخدام Flutter و Dart (40 موضوع + 5 مشاريع)
