@@ -10,6 +10,7 @@ author: "Eng. Anwar Al-Sayari"
 # The Comprehensive Practical Guide: Clean Architecture + Feature-Based Pattern + SOLID in Dart and Flutter
 
 [اللغة العربية](Readme_ar.md)
+
 [For JavaScript developers](../Javascript/Readme.md)
 
 > An extensive English reference that combines **Part One**, covering Clean Architecture and the Feature-Based Pattern, with **Part Two**, covering the application of SOLID principles within this architecture, including Mermaid diagrams, code, tests, and checklists.

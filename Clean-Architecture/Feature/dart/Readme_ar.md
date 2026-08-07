@@ -11,6 +11,7 @@ author: "م. أنور السياري"
 # الدليل العملي الشامل: Clean Architecture + Feature-Based Pattern + SOLID في Dart وFlutter
 
 [English language](Readme.md)
+
 [For JavaScript developers](../Javascript/Readme_ar.md)
 
 > مرجع عربي طويل يجمع **الجزء الأول** الخاص بـClean Architecture وFeature-Based Pattern، و**الجزء الثاني** الخاص بتطبيق مبادئ SOLID داخل هذه البنية، مع مخططات Mermaid وأكواد واختبارات وقوائم فحص.
