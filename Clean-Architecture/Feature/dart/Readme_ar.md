@@ -1,9 +1,5 @@
 ---
 title: "الدليل العملي الشامل لـ Clean Architecture وFeature-Based Pattern وSOLID في Dart وFlutter"
-language: "ar"
-direction: "rtl"
-runtime: "Dart 3+ / Flutter"
-version: "1.0"
 author: "م. أنور السياري"
 ---
 <div dir="rtl">

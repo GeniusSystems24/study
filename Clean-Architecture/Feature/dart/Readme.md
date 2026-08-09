@@ -1,9 +1,5 @@
 ---
 title: "The Comprehensive Practical Guide to Clean Architecture, Feature-Based Pattern, and SOLID in Dart and Flutter"
-language: "en"
-direction: "ltr"
-runtime: "Dart 3+ / Flutter"
-version: "1.0"
 author: "Eng. Anwar Al-Sayari"
 ---
 

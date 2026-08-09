@@ -1,0 +1,14 @@
+{
+  "name": "javascript-layered-clean-architecture-example",
+  "version": "1.0.0",
+  "description": "Layered Clean Architecture + SOLID example using only Node.js built-ins",
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test",
+    "check:boundaries": "node scripts/check-boundaries.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

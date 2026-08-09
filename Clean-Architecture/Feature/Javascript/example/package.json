@@ -1,0 +1,19 @@
+{
+  "name": "clean-architecture-feature-based-javascript-example",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Example Node.js REST API using Clean Architecture, Feature-Based Pattern, and SOLID principles.",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "dev": "node --watch src/server.js",
+    "start": "node src/server.js",
+    "test": "node --test",
+    "check:architecture": "node scripts/check-architecture.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}

@@ -1,9 +1,5 @@
 ---
 title: "The Comprehensive Practical Guide to Clean Architecture, Feature-Based Pattern, and SOLID in JavaScript"
-language: "en"
-direction: "ltr"
-runtime: "Node.js 20+ / ES Modules"
-version: "1.0"
 author: "Eng. Anwar Al-Sayari"
 ---
 

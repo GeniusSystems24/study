@@ -1,9 +1,5 @@
 ---
 title: "الدليل العملي الشامل لـ Clean Architecture وFeature-Based Pattern وSOLID في JavaScript"
-language: "ar"
-direction: "rtl"
-runtime: "Node.js 20+ / ES Modules"
-version: "1.0"
 author: "م. أنور السياري"
 ---
 <div dir="rtl">
